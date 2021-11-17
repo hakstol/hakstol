@@ -6,6 +6,8 @@
 
 <h3 align="left">
 
+ 🎉17 years
+ 
 📚 I’m studying at Escola SENAI de Informática (
 systems development technician) and IFSP (electronics technician)
 
