@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou Leonardo "Hakstol" Vitor 😉</h1>
+<h1 align="center">Hi there, I'm Leonardo "Hakstol" Vitor 😉</h1>
 
 <h3 align="center">A network technician and technical development student from  Sao Paulo - Brazil </h3>
 
