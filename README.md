@@ -6,16 +6,15 @@
 
 <h3 align="left">
 
- 🎉17 years
+🎉17 years
  
-📚 I’m studying at Escola SENAI de Informática (
-systems development technician) and IFSP (electronics technician)
+📚 I’m studying systems development technician at Escola SENAI de Informática and electronics technician at IFSP.
 
 🌱 I’m currently learning ReactJS and ReactNative for Mobile APPs.
 
 📫 How to reach me : lv.hakstol@gmail.com
  
- 📞 Discord: hide on bush#9893
+📞 Discord: hide on bush#9893
 </h3>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=hakstol)
