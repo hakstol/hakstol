@@ -8,7 +8,10 @@
 
 🎉17 years
  
-📚 I’m studying systems development technician at Escola SENAI de Informática and electronics technician at IFSP.
+📚 I’m studying:
+
+🔴 Systems development technician at Escola SENAI de Informática 
+🟢 Electronics technician at IFSP.
 
 🌱 I’m currently learning ReactJS and ReactNative for Mobile APPs.
 
