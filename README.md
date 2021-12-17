@@ -5,8 +5,7 @@
 <h4 align="center" >Always looking for new experiences, knowledge and opportunities. 📌</h4>
 
 <h3 align="left">
-
-🎉17 years
+ 
  
 📚 I’m studying:
 
