@@ -12,7 +12,7 @@
 🔴 Systems development technician at Escola SENAI de Informática 
 🟢 Electronics technician at IFSP.
 
-🌱 I’m currently learning ReactJS and ReactNative for Mobile APPs.
+🌱 I’m currently learning IA integrantions and cryptography.
 
 📫 How to reach me : lv.hakstol@gmail.com
  
