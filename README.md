@@ -16,7 +16,7 @@
 
 📫 How to reach me : lv.hakstol@gmail.com
  
-📞 Discord: hide on bush#9893
+📞 Discord: alwayslevi#9893
 </h3>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=hakstol)
