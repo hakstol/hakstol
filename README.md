@@ -12,7 +12,7 @@
 🔴 Systems development technician at Escola SENAI de Informática 
 🟢 Electronics technician at IFSP.
 
-🌱 I’m currently learning IA integrantions and Cryptography with Hash(BCrypto).
+🌱 I’m currently learning Deploy and LGPD.
 
 📫 How to reach me : lv.hakstol@gmail.com
  
