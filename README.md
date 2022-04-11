@@ -12,7 +12,7 @@
 🔴 Systems development technician at Escola SENAI de Informática 
 🟢 Electronics technician at IFSP.
 
-🌱 I’m currently trainning for SAEP Exam.
+🌱 I’m currently studying for Certified Cloud Practioner Exam.
 
 📫 How to reach me : lv.hakstol@gmail.com
  
