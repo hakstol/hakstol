@@ -5,18 +5,15 @@
 <h4 align="center" >Always looking for new experiences, knowledge and opportunities. 📌</h4>
 
 <h3 align="left">
- 
- 
-📚 I’m studying:
 
 🔴 Systems development technician at Escola SENAI de Informática 
 🟢 Electronics technician at IFSP.
 
 🌱 I’m currently studying for Certified Cloud Practioner Exam.
 
-📫 How to reach me : lv.hakstol@gmail.com
+📫 How to reach me: lv.hakstol@gmail.com
  
-📞 Discord: alwayslevi#9893
+📞 Discord: leviiiiiiiii#9893
 </h3>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=hakstol)
