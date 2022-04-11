@@ -22,10 +22,8 @@
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=hakstol)
 
 <h3 align="left">Connect with me 👨🏻‍💻 :</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/leonardo-vitor-1476a31a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo-vitor-1476a31a2/" height="30" width="40" /></a>
-<a href="https://pt.stackoverflow.com/users/195701/leonardo-vitor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="195701" height="30" width="40" /></a>
- <a href="https://www.instagram.com/hakst0l/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hakst0l/" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/leonardo-vitor-1476a31a2/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://pt.stackoverflow.com/users/195701/leonardo-vitor" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a> <a href="https://www.instagram.com/hakst0l/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
  
 <h3 align="left">Development Knowledges 👨‍💻:</h3>
  
