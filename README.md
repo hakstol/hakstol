@@ -9,7 +9,7 @@
 🔴 Systems development technician at Escola SENAI de Informática 
 🟢 Electronics technician at IFSP.
 
-🌱 I’m currently studying for Certified Cloud Practioner Exam.
+🌱 I’m currently studying for Certified Cloud Practioner Exam from AWS.
 
 📫 How to reach me: lv.hakstol@gmail.com
  
