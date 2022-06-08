@@ -9,11 +9,10 @@
 🔴 Systems development technician at Escola SENAI de Informática 
 🟢 Electronics technician at IFSP.
 
-🌱 I’m currently studying for Certified Cloud Practioner Exam from AWS.
+🌱 I’m currently studying for Certified Cloud Practioner Exam from Amazon AWS and IA-900 from Microsoft Azure.
 
 📫 How to reach me: lv.hakstol@gmail.com
  
-📞 Discord: leviiiiiiiii#9893
 </h3>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=hakstol)
