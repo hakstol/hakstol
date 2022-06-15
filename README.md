@@ -35,6 +35,8 @@
 
 <h2 align="left">Github Stats</h2>
 
-[YOUR github stats](https://github-readme-stats.vercel.app/api?username=ian-soares&theme=dark)](https://github.com/hakstol/)
-[YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-soares&hide=html&layout=compact&theme=dark)](https://github.com/hakstol/)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ian-soares&theme=dark)](https://github.com/hakstol/)
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-soares&hide=html&layout=compact&theme=dark)](https://github.com/hakstol/)
+
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
