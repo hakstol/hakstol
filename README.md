@@ -6,9 +6,9 @@
 
 <h2 align="left">About me </h2>
 
-🔴 Systems development technician at Escola SENAI de Informática
-🔴 Network technician at Escola SENAI de Informática
-🟢 Electronics technician at IFSP.
+<p>🔴 Systems development technician at Escola SENAI de Informática</p>
+<p>🔴 Network technician at Escola SENAI de Informática</p>
+<p>🟢 Electronics technician at IFSP.</p>
 
 
 <h2 align="left">Currently learning about</h2>
