@@ -4,13 +4,12 @@
 
 <h4 align="center" >Always looking for new experiences, knowledge and opportunities. 📌</h4>
 
-<h3 align="left">
- 
+<h2 align="left">About me </h2>
+
 🔴 Systems development technician at Escola SENAI de Informática
 🔴 Network technician at Escola SENAI de Informática
 🟢 Electronics technician at IFSP.
 
-</h3>
 
 <h2 align="left">Currently learning about</h2>
 
