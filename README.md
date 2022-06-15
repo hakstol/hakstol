@@ -14,17 +14,20 @@
 
 <h2 align="left">Currently learning about</h2>
 
-[![My Skills](https://skills.thijs.gg/icons?i=docker,kubernetes,azure,aws)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=docker,kubernetes,nginx,azure,aws)](https://skills.thijs.gg)
 
+<h2 align="left">Interested in</h2>
+
+[![My Skills](https://skills.thijs.gg/icons?i=angular,dart,flutter,gcp,kotlin,nextjs,vue)](https://skills.thijs.gg)
  
 <h2 align="left">Development Knowledges</h2>
  
-[![My Skills](https://skills.thijs.gg/icons?i=react,dotnet,mongodb,mysql,cs,js,fastapi,py,git,github)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,dotnet,mongodb,cs,js,fastapi,py,git,github)](https://skills.thijs.gg)
 
 
 <h2 align="left">Network Knowledges</h2>
 
-[![My Skills](https://skills.thijs.gg/icons?i=aws,azure,grafana,linux,jenkins,wordpress,)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=aws,azure,grafana,linux,jenkins,wordpress)](https://skills.thijs.gg)
 
 <h2 align="left">Agile Methodologies</h2>
 
