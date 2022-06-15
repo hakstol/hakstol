@@ -14,7 +14,7 @@
 
 <h2 align="left">Currently learning about</h2>
 
-
+<img src="file:///C:/Users/hakst/Downloads/python.svg"/>
 
  
 <h2 align="left">Development Knowledges</h2>
