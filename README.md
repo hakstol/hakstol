@@ -11,7 +11,7 @@
 <p>🟢 Electronics technician at IFSP.</p>
 
 
-<h2 align="left">Currently learning about</h2>
+<h2 align="left">Learning</h2>
 
 [![My Skills](https://skills.thijs.gg/icons?i=docker,kubernetes,nginx,azure,aws)](https://skills.thijs.gg)
 
@@ -26,7 +26,7 @@
 
 <h2 align="left">Network Knowledges</h2>
 
-[![My Skills](https://skills.thijs.gg/icons?i=aws,azure,grafana,linux,jenkins,wordpress)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=aws,azure,grafana,linux,jenkins,wordpress,docker,kubernetes)](https://skills.thijs.gg)
 
 <h2 align="left">Agile Methodologies</h2>
 
