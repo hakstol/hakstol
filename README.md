@@ -17,7 +17,7 @@
 
 <h2 align="left">Interested in</h2>
 
-[![My Skills](https://skills.thijs.gg/icons?i=angular,dart,flutter,gcp,kotlin,nextjs,vue)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=angular,dart,flutter,gcp,kotlin,nextjs,vue,ansible,gitlab)](https://skills.thijs.gg)
  
 <h2 align="left">Development Knowledges</h2>
  
@@ -26,7 +26,7 @@
 
 <h2 align="left">Network Knowledges</h2>
 
-[![My Skills](https://skills.thijs.gg/icons?i=aws,azure,grafana,linux,jenkins,wordpress,docker,kubernetes)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=aws,azure,grafana,linux,jenkins,wordpress,docker,kubernetes,bash,vercel,vim)](https://skills.thijs.gg)
 
 <h2 align="left">Agile Methodologies</h2>
 
