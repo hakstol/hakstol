@@ -1,4 +1,4 @@
-<h1 align="center">🌍 Hello World! Leonardo "Hakstol" Vitor here.</h1>
+<h1 align="center">Hello! Leonardo "Hakstol" Vitor here.</h1>
 
 <h3 align="center">A DevOps Technician, Network and Developer always interested in learning about (new) technologies.</h3>
 
