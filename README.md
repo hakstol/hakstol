@@ -12,7 +12,7 @@
 
 <h2 align="left">Badges</h2>
 
-[![My Skills](https://skills.thijs.gg/icons?i=azure)](https://skills.thijs.gg)<h2>Microsoft Azure: AI Fundamentals (AI-900)</h2>
+(https://skills.thijs.gg/icons?i=azure)(https://skills.thijs.gg)<h2>Microsoft Azure: AI Fundamentals (AI-900)</h2>
 [![My Skills](https://skills.thijs.gg/icons?i=aws)](https://skills.thijs.gg) <p>AWS Cloud Practioner</p>
 [![My Skills](https://skills.thijs.gg/icons?i=aws)](https://skills.thijs.gg) <p>AWS Cloud Foundation (AWS Academy)</p>
 
@@ -43,8 +43,8 @@
 
 <h2 align="left">Github Stats</h2>
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=hakstol&theme=dark)]
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=hakstol&theme=dark)
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hakstol&hide=html&layout=compact&theme=dark)]
+![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hakstol&hide=html&layout=compact&theme=dark)
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
