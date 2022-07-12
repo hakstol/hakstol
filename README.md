@@ -14,8 +14,9 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=azure)](https://skills.thijs.gg) <p>Microsoft Azure: AI Fundamentals (AI-900)</p>
 
-[![My Skills](https://skills.thijs.gg/icons?i=aws)](https://skills.thijs.gg) AWS Cloud Practioner
-[![My Skills](https://skills.thijs.gg/icons?i=aws)](https://skills.thijs.gg) AWS Cloud Foundation (AWS Academy)
+[![My Skills](https://skills.thijs.gg/icons?i=aws)](https://skills.thijs.gg) <p align="center">AWS Cloud Practioner</p>
+
+[![My Skills](https://skills.thijs.gg/icons?i=aws)](https://skills.thijs.gg) <p align="center">AWS Cloud Foundation (AWS Academy)</p>
 
 <h2 align="left">Learning</h2>
 
