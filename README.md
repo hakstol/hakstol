@@ -10,12 +10,6 @@
 <p>🔴 Network technician at Escola SENAI de Informática</p>
 <p>🟢 Electronics technician at IFSP.</p>
 
-<h2 align="left">Badges</h2>
-
-(https://skills.thijs.gg/icons?i=azure)(https://skills.thijs.gg)<h2>Microsoft Azure: AI Fundamentals (AI-900)</h2>
-[![My Skills](https://skills.thijs.gg/icons?i=aws)](https://skills.thijs.gg) <p>AWS Cloud Practioner</p>
-[![My Skills](https://skills.thijs.gg/icons?i=aws)](https://skills.thijs.gg) <p>AWS Cloud Foundation (AWS Academy)</p>
-
 <h2 align="left">Learning</h2>
 
 [![My Skills](https://skills.thijs.gg/icons?i=docker,kubernetes,nginx,azure,aws)](https://skills.thijs.gg)
