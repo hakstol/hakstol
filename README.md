@@ -16,7 +16,7 @@
 
 <h2 align="left">Interested in</h2>
 
-[![My Skills](https://skills.thijs.gg/icons?i=angular,dart,flutter,gcp,kotlin,nextjs,vue,ansible,gitlab)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=gcp,oracle,ansible,gitlab,flask,flutter,kotlin,nextjs)](https://skills.thijs.gg)
  
 <h2 align="left">Development Knowledges</h2>
  
