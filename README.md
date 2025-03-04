@@ -1,29 +1,24 @@
-<h1 align="center">Hello! Leonardo "Hakstol" Vitor here.</h1>
+<h1 align="center">Leonardo "Hakstol" Vitor</h1>
 
-<h3 align="center">A DevOps Technician, Network and Developer always interested in learning about (new) technologies.</h3>
-
-<h4 align="center" >Always looking for new experiences, knowledge and opportunities. 📌</h4>
-
-<h2 align="left">About me </h2>
-
-<p>🔴 Systems development technician at Escola SENAI de Informática</p>
-<p>🔴 Network technician at Escola SENAI de Informática</p>
-<p>🟢 Electronics technician at IFSP.</p>
+<h3 align="center">A DevOps and Identity Analyst always interested in learning about (new) technologies.</h3>
 
 <h2 align="left">Learning</h2>
 
 [![My Skills](https://skills.thijs.gg/icons?i=docker,kubernetes,nginx,azure,aws)](https://skills.thijs.gg)
 
-<h2 align="left">Interested in</h2>
+<h2 align="left">Working currently on</h2>
 
-[![My Skills](https://skills.thijs.gg/icons?i=gcp,ansible,gitlab,flask,flutter,kotlin,nextjs)](https://skills.thijs.gg)
- 
-<h2 align="left">Development Knowledges</h2>
+<img src="https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044/>
+<img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white/>
+<img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white/> 
+
+<h2 align="left">DevOps Knowledges</h2>
  
 [![My Skills](https://skills.thijs.gg/icons?i=react,dotnet,mongodb,cs,js,fastapi,py,git,github)](https://skills.thijs.gg)
 
 
-<h2 align="left">Network Knowledges</h2>
+<h2 align="left">IAM Knowledges</h2>
 
 [![My Skills](https://skills.thijs.gg/icons?i=aws,azure,grafana,linux,jenkins,wordpress,docker,kubernetes,bash,vercel,vim)](https://skills.thijs.gg)
 
@@ -33,7 +28,7 @@
 
 <h2 align="left">Connect with me</h2>
 
-<a href="https://www.linkedin.com/in/leonardo-vitor-1476a31a2/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://pt.stackoverflow.com/users/195701/leonardo-vitor" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a> <a href="https://www.instagram.com/hakst0l/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/leonardo-vitor-1476a31a2/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://pt.stackoverflow.com/users/195701/leonardo-vitor" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 
 <h2 align="left">Github Stats</h2>
 
